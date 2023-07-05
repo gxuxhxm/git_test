@@ -1,4 +1,4 @@
-#FUNCTION#
+**FUNCTION**
 
 <br>objects enables function or methods to work 
 
@@ -8,3 +8,4 @@
   ```public``` is access specifier<br>
 ```static``` is access modifer
 - in python have multiple return type of fun or multiple return data type unlike java
+- a function might have ```void``` return value
