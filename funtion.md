@@ -1,4 +1,5 @@
-**function**
+#FUNCTION#
+
 <br>objects enables function or methods to work 
 
 - defining the function in py
